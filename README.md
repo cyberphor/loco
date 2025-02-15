@@ -11,3 +11,6 @@ go install github.com/cyberphor/loco@latest
 ```bash
 ~/go/bin/loco
 ```
+
+## Copyright
+This project is licensed under the terms of the [MIT license](/LICENSE).
